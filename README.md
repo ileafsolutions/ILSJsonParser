@@ -1,0 +1,2 @@
+# ILSJsonParser
+ILSJsonParser helps you parse your response data as NSDictionary,NSArray,String,Number,Boolean which your response key it is just initials the ILSJsonParser with your required response data or any other json data and also added the subscripts to further extend your sub dictionaries or sub arrays.ILSJsonParser also has a error variable which gives you the error if your expected key doesn't return any value
