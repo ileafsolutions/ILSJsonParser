@@ -1,0 +1,11 @@
+framework module ILSJsonParser {
+  umbrella header "ILSJsonParser.h"
+
+  export *
+  module * { export * }
+}
+
+module ILSJsonParser.Swift {
+    header "ILSJsonParser-Swift.h"
+    requires objc
+}
